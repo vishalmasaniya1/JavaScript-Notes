@@ -1,0 +1,14 @@
+String is a text .
+
+if we add a number to a string then it will also convert into string i.e. -> 'vishal'+1 => 'vishal1'.
+
+There are three types to create a string :
+a. '...'     b. "..."    c.`...`(template string).
+
+The third type is recommendable type because we can calculate numbers inside it cleanly. i.e. -> `vishal ${4+4} come here` => 'vishal 8 come here' ---
+it is known as interpolation.
+
+Some escape characters \'   \n for new line.
+
+
+
